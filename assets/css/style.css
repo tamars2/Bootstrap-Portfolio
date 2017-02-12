@@ -1,0 +1,80 @@
+body {
+	margin: 0 auto;
+	background-image: url("../images/background.png?");
+}
+
+header {
+	width: 100%;
+}
+
+aside {
+	float: right;
+}
+
+.panel-footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	text-align: center;
+}
+
+.row {
+	margin: 0 auto;
+}
+
+.sidebar {
+	float: left;
+}
+
+.main {
+	float: left;
+}
+
+#portfolioTable, .main {
+	float: left;
+}
+
+h3 {
+	top: 10px;
+}
+
+.img-thumbnail {
+	margin: 14px;
+}
+
+/*
+#portfolioTable {
+	justify-content: center;
+}
+
+#box1, #box2, #box3, #box4, #box5 {
+	position: relative;
+	width: 175px;
+	height: 125px;
+	float: left;
+	
+}
+
+#box1 {
+	background-image: url("../images/box1.jpg");
+	background-size: cover;
+}
+#box2 {
+	background-image: url("../images/box2.jpg");
+	background-size: cover;
+	bottom: 18px;
+}
+#box3 {
+	background-image: url("../images/box3.jpg");
+	background-size: cover;
+}
+#box4 {
+	background-image: url("../images/box4.jpg");
+	background-size: cover;
+}
+#box5 {
+	background-image: url("../images/box5.jpg");
+	background-size: cover;	
+	top: 15px;
+}
